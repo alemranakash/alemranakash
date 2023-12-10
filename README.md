@@ -125,7 +125,7 @@ As a MERN (MongoDB, Express.js, React, Node.js) stack developer, I specialize in
 ####
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:alemranexpert@gmail.com) | 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile/) | 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-al-emran-akash/) | 
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/al.emran.akash.75/)
 
 
