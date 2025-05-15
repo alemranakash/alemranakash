@@ -88,7 +88,7 @@ As a MERN (MongoDB, Express.js, React, Node.js) stack developer, I specialize in
   - Frontend: React.js, Tailwind CSS
   - Backend: Node.js, Express.js, MongoDB
   - Authentication: Firebase 
-- [Client Site](https://github.com/alemranakash/blood-donation-client) - [Server Site](https://github.com/alemranakash/blood-donation-server) - [Live Demo](https://blood-donation-project.surge.sh/)
+- [Client Site](https://github.com/alemranakash/blood-donation-client) - [Server Site](https://github.com/alemranakash/blood-donation-server) - [Live Demo](https://life-bank.netlify.app/)
 
 
 ### 📝 Blog Website
